@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Printing
+ *main - Printing
  *
- * Return:0
+ *Return:0
  */
 int main(void)
 {
