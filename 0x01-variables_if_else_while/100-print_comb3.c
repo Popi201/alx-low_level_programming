@@ -28,7 +28,7 @@ int main(void)
 				{
 					putchar(e);
 					putchar(i);
-					if (i == 57 && e ==56)
+					if (i == 57 && e == 56)
 					{
 						break;
 					}
@@ -37,9 +37,8 @@ int main(void)
 				}
 				i++;
 			}
-		        e++;
+			e++;
 		}
-				
-			        putchar('\n');
-				return (0);
+		putchar('\n');
+		return (0);
 }
